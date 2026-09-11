@@ -1,4 +1,4 @@
-# Kristofer — 3D Web Developer Portfolio
+# 3D Web Developer Portfolio
 
 An interactive 3D developer portfolio built with React 19, Three.js, GSAP, and Tailwind CSS.
 
